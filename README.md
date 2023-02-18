@@ -1,4 +1,13 @@
-### Hi there 👋
+### Andrej 👋
+
+Analyst, programmer, love python, love open source and community driven developlment.
+
+I code Blender addons. 
+Have some experience with web scraping and data consolidation manipulation.
+
+I’m currently working on [IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)
+
+TRC20 USDT for donations: `TSFU6QLMJ4zJQtwnt1YAZBdgZ8qNSLWHJN`
 
 <!--
 **Andrej730/Andrej730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
