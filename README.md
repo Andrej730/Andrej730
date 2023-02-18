@@ -1,6 +1,6 @@
 ### Andrej 👋
 
-Analyst, programmer, love python, love open source and community driven developlment.
+Analyst, programmer, love python, love open source and community driven development.
 
 I code Blender addons. 
 Have some experience with web scraping and data consolidation manipulation.
